@@ -18,3 +18,4 @@ C:\Users\2022102020009\source\repos\Revisão prova 2023\Revisão prova 2023\obj\
 C:\Users\2022102020009\source\repos\Revisão prova 2023\Revisão prova 2023\obj\Debug\net6.0-windows\ref\Revisão prova 2023.dll
 C:\Users\2022102020009\source\repos\Revisão prova 2023\Revisão prova 2023\obj\Debug\net6.0-windows\Revisão_prova_2023.Divisao.resources
 C:\Users\2022102020009\source\repos\Revisão prova 2023\Revisão prova 2023\obj\Debug\net6.0-windows\Revisão_prova_2023.divisoes.resources
+C:\Users\2022102020009\source\repos\Revisão prova 2023\Revisão prova 2023\obj\Debug\net6.0-windows\Revisão_prova_2023.Properties.Resources.resources

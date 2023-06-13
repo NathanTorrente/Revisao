@@ -25,6 +25,7 @@ namespace Revisão_prova_2023
 
         private void button1_Click(object sender, EventArgs e)
         {
+            string escolha = "";
             string sexo = "";
             if (radioButton1.Checked)
             {
@@ -36,6 +37,7 @@ namespace Revisão_prova_2023
 
             }
             MessageBox.Show(sexo); // aqui impirmi as informações
+            MessageBox.Show(escolha);
         }
     }
 }
