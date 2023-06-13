@@ -1,0 +1,20 @@
+C:\Users\2022102020009\source\repos\Revisão prova 2023\Revisão prova 2023\obj\Debug\net6.0-windows\Revisão prova 2023.csproj.AssemblyReference.cache
+C:\Users\2022102020009\source\repos\Revisão prova 2023\Revisão prova 2023\obj\Debug\net6.0-windows\Revisão_prova_2023.Form1.resources
+C:\Users\2022102020009\source\repos\Revisão prova 2023\Revisão prova 2023\obj\Debug\net6.0-windows\Revisão_prova_2023.Menu.resources
+C:\Users\2022102020009\source\repos\Revisão prova 2023\Revisão prova 2023\obj\Debug\net6.0-windows\Revisão prova 2023.csproj.GenerateResource.cache
+C:\Users\2022102020009\source\repos\Revisão prova 2023\Revisão prova 2023\obj\Debug\net6.0-windows\Revisão prova 2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020009\source\repos\Revisão prova 2023\Revisão prova 2023\obj\Debug\net6.0-windows\Revisão prova 2023.AssemblyInfoInputs.cache
+C:\Users\2022102020009\source\repos\Revisão prova 2023\Revisão prova 2023\obj\Debug\net6.0-windows\Revisão prova 2023.AssemblyInfo.cs
+C:\Users\2022102020009\source\repos\Revisão prova 2023\Revisão prova 2023\obj\Debug\net6.0-windows\Revisão prova 2023.csproj.CoreCompileInputs.cache
+C:\Users\2022102020009\source\repos\Revisão prova 2023\Revisão prova 2023\bin\Debug\net6.0-windows\Revisão prova 2023.exe
+C:\Users\2022102020009\source\repos\Revisão prova 2023\Revisão prova 2023\bin\Debug\net6.0-windows\Revisão prova 2023.deps.json
+C:\Users\2022102020009\source\repos\Revisão prova 2023\Revisão prova 2023\bin\Debug\net6.0-windows\Revisão prova 2023.runtimeconfig.json
+C:\Users\2022102020009\source\repos\Revisão prova 2023\Revisão prova 2023\bin\Debug\net6.0-windows\Revisão prova 2023.dll
+C:\Users\2022102020009\source\repos\Revisão prova 2023\Revisão prova 2023\bin\Debug\net6.0-windows\Revisão prova 2023.pdb
+C:\Users\2022102020009\source\repos\Revisão prova 2023\Revisão prova 2023\obj\Debug\net6.0-windows\Revisão prova 2023.dll
+C:\Users\2022102020009\source\repos\Revisão prova 2023\Revisão prova 2023\obj\Debug\net6.0-windows\refint\Revisão prova 2023.dll
+C:\Users\2022102020009\source\repos\Revisão prova 2023\Revisão prova 2023\obj\Debug\net6.0-windows\Revisão prova 2023.pdb
+C:\Users\2022102020009\source\repos\Revisão prova 2023\Revisão prova 2023\obj\Debug\net6.0-windows\Revisão prova 2023.genruntimeconfig.cache
+C:\Users\2022102020009\source\repos\Revisão prova 2023\Revisão prova 2023\obj\Debug\net6.0-windows\ref\Revisão prova 2023.dll
+C:\Users\2022102020009\source\repos\Revisão prova 2023\Revisão prova 2023\obj\Debug\net6.0-windows\Revisão_prova_2023.Divisao.resources
+C:\Users\2022102020009\source\repos\Revisão prova 2023\Revisão prova 2023\obj\Debug\net6.0-windows\Revisão_prova_2023.divisoes.resources
